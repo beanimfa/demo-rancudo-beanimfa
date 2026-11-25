@@ -1,0 +1,45 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset = "UTF-8">
+	<meta name= "viewport" content= "width=, initial-scale=1.0">
+	<title>Document</title>
+
+	 <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+	<h1>Rancudo, Bea Nimfa V.</h1>
+	<h2>Git Command</h2>
+	<table>
+	    <tr> 
+	    	<th>#</th>
+	    	<th>command</th>
+	    	<th>Description</th>
+	    </tr>
+	    <tr>
+	    	<th>1</th>
+	    	<th>git config user.name " "</th>
+	    	<th>Used to set commit an author name for a particular reepository</th>
+	    </tr>
+	     <tr>
+	    	<th>2</th>
+	    	<th>git config user.email " "</th>
+	    	<th>Used to set commit an author Email for a particular reepository</th>
+	    </tr>
+	     <tr>
+	    	<th>3</th>
+	    	<th>git --version</th>
+	    	<th>Used to verify git version and installment</th>
+	    </tr>
+ 		<tr>
+	    	<th>4</th>
+	    	<th>git credential -manager github list" "</th>
+	    	<th></th>
+	    </tr>
+
+
+
+	</table>	
+</body>
+</html>
